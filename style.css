@@ -145,14 +145,13 @@ body {
 
 footer {
     position: absolute;
-    margin-top: 35%;
+    margin-top: 80vh;
     font-size: 1rem;
-    color: var(--first-color);
+    color: var(--primary-color);
     text-align: center;
-    font-family: 'Josefin Sans', sans-serif, 'Roboto', sans-serif;
 }
 
 footer a {
     text-decoration: none;
-    color: var(--second-color);
+    color: var(--third-color);
 }
