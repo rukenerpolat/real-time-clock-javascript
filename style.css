@@ -142,3 +142,17 @@ body {
     transition: all 0.5s ease-in;
     font-size: 12px;
 }
+
+footer {
+    position: absolute;
+    margin-top: 35%;
+    font-size: 1rem;
+    color: var(--first-color);
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif, 'Roboto', sans-serif;
+}
+
+footer a {
+    text-decoration: none;
+    color: var(--second-color);
+}
