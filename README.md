@@ -18,6 +18,10 @@ A simple, elegant real-time digital clock built using **HTML**, **CSS**, and **V
 🎨 Dark/light mode <br>
 🗓️ Current date below the time
 
+## 🧠 How It Works
+- The current time is fetched using JavaScript's ```Date``` object.
+- ```setInterval()``` is used to update the time every 1000 milliseconds (1 second).
+
 ## 🛠️ Tech Stack
 
 - **Frontend:** HTML5, CSS3, JavaScript (ES6)
@@ -42,9 +46,6 @@ real-time-clock-javascript/ <br>
 ├── style.css <br>
 └── script.js <br>
 
-## 🧠 How It Works
-- The current time is fetched using JavaScript's ```Date``` object.
-- ```setInterval()``` is used to update the time every 1000 milliseconds (1 second).
 
 ## 🤝 Contributing
 Feel free to fork the repo, make enhancements, and submit a pull request!  
